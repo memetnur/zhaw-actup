@@ -10,6 +10,7 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 - [ ] Versionsmanagement mit git
 - [ ] Git Flows
 - [ ] Projektmanagement mit GitHub
+- [ ] HPC Code-Deployments mit GitHub
 - [ ] Linux Kommandozeilen Basics
 - [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
 - [ ] Docker und Container Basics
