@@ -19,3 +19,5 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 - [ ] R, R-Studio und Jupyter
 - [ ] Tidy-R Einführung
 - [ ] Formulare mit Google Docs und MS Forms
+- [ ] Macs für die Life Sciences startklar machen
+- [ ]  
