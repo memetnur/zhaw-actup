@@ -16,5 +16,6 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 - [ ] Docker und Container Basics
 - [ ] Automatisierung mit GitHub Actions
 - [ ] EXCEL Grundlagen
+- [ ] R, R-Studio und Jupyter
 - [ ] Tidy-R Einführung
 - [ ] Formulare mit Google Docs und MS Forms
