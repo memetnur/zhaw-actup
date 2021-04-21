@@ -20,4 +20,4 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 - [ ] Tidy-R Einführung
 - [ ] Formulare mit Google Docs und MS Forms
 - [ ] Macs für die Life Sciences startklar machen
-- [ ]  
+- [ ] Windows für Anfänger 
